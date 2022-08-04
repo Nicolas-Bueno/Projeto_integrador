@@ -51,7 +51,7 @@ Esse projeto tem o intuito de sanar os problemas do cotidiano da empresa.
 
 ### Tecnologias 🛠
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas vai ser usadas na construção do projeto:
 
 - JAVA (PARA INTERFACE)
 - MYSQL (BANCO DE DADOS)
